@@ -73,9 +73,6 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 8.	Switch on the main supply and give some warm up time to get current / accuratereading.
 9.	Connections should be done properly.
 10.	Don’t see directly inside the waveguide.
-11.	After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2.
-12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
-13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
 **Graph**:
 <img width="806" height="1280" alt="image" src="https://github.com/user-attachments/assets/34e21a6a-9eb3-495d-8870-427a28d51ee9" />
